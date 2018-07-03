@@ -1,2 +1,2 @@
-# stifled
-Stifled Website
+# stifledgame
+Stifled Site
